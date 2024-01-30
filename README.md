@@ -25,6 +25,7 @@ Adidas US Sales Analysis
 
 -Performed an Exploratory Data Analysis (EDA) of Adidas US Sales spanning the years 2020-2021. Our analysis encompasses key facets such as product segmentation, retailer performance, regional influences, pricing dynamics, and temporal trends. Leveraging Python and prominent data analysis libraries, including Pandas, Seaborn, and Matplotlib, we unravel critical insights aimed at aiding strategic decision-making.
 
+https://github.com/RahulP96/Adidas-US-Sales-Analysis/blob/ad5f06aaf3a0f7e57529712b3d0b00420877a87c/Adidas%20US%20Sales%20Analysis.ipynb
 
 
 
