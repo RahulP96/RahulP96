@@ -1,6 +1,31 @@
-- 👋 Hi, I’m Rahul Parekh
-- 👀 I’m an aspiring Data analyst looking for an opportunity to build by knowledge and showcase my skills
-- 🌱 I’m currently finishing a data analytics bootcamp where i have learnt Python, Pandas, Matplotlib, Seaborn and Bokeh
+# 👋 Hi, I’m Rahul Parekh
+
+## Data Analyst | Python | Excel | SQL | Data Visualisation
+
+About Me
+
+-I'm a passionate data enthusiast who thrives on extracting insights from complex datasets. During my bootcamp, I delved into Python programming, mastering essential libraries such as Pandas, Seaborn, Matplotlib, and Bokeh. These tools have empowered me to analyze and visualize data effectively. Looking for an opportunity to build by knowledge and showcase my skills
+
+
+Skills-
+
+Programming Languages: Python
+Libraries: Pandas, Seaborn, Matplotlib, Bokeh
+Data Analysis: Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering
+Data Visualization: Creating informative and visually appealing charts and graphs
+Tools (Upcoming): Tableau, PowerBI
+
+Projects- 
+
+Hackathon - Netflix Data 
+
+-Collaborated within a four-member team under tight time constraints to conduct a comprehensive analysis of the Netflix dataset. The objective was to provide strategic insights to CS-Streaming, aiding them in optimizing their services and enhancing competitiveness against Netflix. 
+
+Adidas US Sales Analysis
+
+-Performed an Exploratory Data Analysis (EDA) of Adidas US Sales spanning the years 2020-2021. Our analysis encompasses key facets such as product segmentation, retailer performance, regional influences, pricing dynamics, and temporal trends. Leveraging Python and prominent data analysis libraries, including Pandas, Seaborn, and Matplotlib, we unravel critical insights aimed at aiding strategic decision-making.
+
+
 
 
 <!---
