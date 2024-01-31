@@ -10,9 +10,13 @@ About Me
 Skills-
 
 Programming Languages: Python
+
 Libraries: Pandas, Seaborn, Matplotlib, Bokeh
+
 Data Analysis: Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering
+
 Data Visualization: Creating informative and visually appealing charts and graphs
+
 Tools (Upcoming): Tableau, PowerBI
 
 Projects- 
