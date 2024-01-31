@@ -17,7 +17,7 @@ Tools (Upcoming): Tableau, PowerBI
 
 Projects- 
 
-Hackathon - Netflix Data 
+Hackathon - Netflix Data [Netflix Data Project](https://github.com/RahulP96/Hackathon---Netflix-Data)
 
 -Collaborated within a four-member team under tight time constraints to conduct a comprehensive analysis of the Netflix dataset. The objective was to provide strategic insights to CS-Streaming, aiding them in optimizing their services and enhancing competitiveness against Netflix. 
 
