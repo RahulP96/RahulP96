@@ -27,7 +27,7 @@ Hackathon - Netflix Data [Netflix Data Project](https://github.com/RahulP96/Hack
 
 Adidas US Sales Analysis      [Adidas Sales Project](https://github.com/RahulP96/Adidas-US-Sales-Analysis/blob/ad5f06aaf3a0f7e57529712b3d0b00420877a87c/Adidas%20US%20Sales%20Analysis.ipynb)
 
--Performed an Exploratory Data Analysis (EDA) of Adidas US Sales spanning the years 2020-2021. Our analysis encompasses key facets such as product segmentation, retailer performance, regional influences, pricing dynamics, and temporal trends. Leveraging Python and prominent data analysis libraries, including Pandas, Seaborn, and Matplotlib, we unravel critical insights aimed at aiding strategic decision-making.
+-Performed an Exploratory Data Analysis (EDA) of Adidas US Sales spanning the years 2020-2021. My aim is to explore this dataset to find out key sales trends, identifying successful products or marketing campaigns and developing possible strategies for future sales. Leveraging Python and prominent data analysis libraries, including Pandas, Seaborn, and Matplotlib, we look unravel critical insights aimed at aiding strategic decision-making.
 
 
 
