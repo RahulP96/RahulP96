@@ -13,7 +13,7 @@ Programming Languages: Python
 
 Libraries: Pandas, Seaborn, Matplotlib, Bokeh
 
-Data Analysis: Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering
+Data Analysis: Exploratory Data Analysis (EDA), Data Cleaning, Data Processing
 
 Data Visualization: Creating informative and visually appealing charts and graphs
 
