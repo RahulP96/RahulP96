@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rahul Parekh
+# 👋 Hi, I’m Rahul 
 
 ## Data Analyst | Python | Excel | SQL | Data Visualisation
 
